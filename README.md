@@ -17,4 +17,5 @@ Download Bluetooth driver for Windows from
 install it inside Windows virtual Machine, and search for
 `BCM43341B0_002.001.014.0122.0176.hcd` file within Windows installation folder.
 Copy it to your Linux machine and place it in
-`/lib/firmware/brcm/BCM43341B0.hcd`.
+`/lib/firmware/brcm/BCM43341B0.hcd`. For convenience this
+[file](BCM43341B0_002.001.014.0122.0176.hcd) is provided in this repository.
